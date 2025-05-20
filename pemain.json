@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Thibaut Courtois",
+      "position": "Goalkeeper",
+      "number": "1",
+      "country": "Belgium"
+    },
+    {
+      "id": "2",
+      "name": "Dani Carvajal",
+      "position": "Right Back",
+      "number": "2",
+      "country": "Spain"
+    },
+    {
+      "id": "3",
+      "name": "Antonio Rüdiger",
+      "position": "Center Back",
+      "number": "22",
+      "country": "Germany"
+    },
+    {
+      "id": "4",
+      "name": "David Alaba",
+      "position": "Center Back",
+      "number": "4",
+      "country": "Austria"
+    },
+    {
+      "id": "5",
+      "name": "Ferland Mendy",
+      "position": "Left Back",
+      "number": "23",
+      "country": "France"
+    },
+    {
+      "id": "6",
+      "name": "Federico Valverde",
+      "position": "Midfielder",
+      "number": "15",
+      "country": "Uruguay"
+    },
+    {
+      "id": "7",
+      "name": "Jude Bellingham",
+      "position": "Midfielder",
+      "number": "5",
+      "country": "England"
+    },
+    {
+      "id": "8",
+      "name": "Arda Güler",
+      "position": "Midfielder",
+      "number": "24",
+      "country": "Turkey"
+    },
+    {
+      "id": "9",
+      "name": "Rodrygo Goes",
+      "position": "Right Winger",
+      "number": "11",
+      "country": "Brazil"
+    },
+    {
+      "id": "10",
+      "name": "Vinícius Júnior",
+      "position": "Left Winger",
+      "number": "7",
+      "country": "Brazil"
+    },
+    {
+      "id": "11",
+      "name": "Kylian Mbappé",
+      "position": "Striker",
+      "number": "9",
+      "country": "France"
+    }
+  ]
+}
