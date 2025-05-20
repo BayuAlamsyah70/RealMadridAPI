@@ -1,0 +1,114 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Thibaut Courtois",
+      "position": "Goalkeeper",
+      "number": "1",
+      "country": "Belgium",
+      "birthDate": "1992-05-11",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/courtois.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Dani Carvajal",
+      "position": "Right Back",
+      "number": "2",
+      "country": "Spain",
+      "birthDate": "1992-01-11",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/carvajal.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Antonio Rüdiger",
+      "position": "Center Back",
+      "number": "22",
+      "country": "Germany",
+      "birthDate": "1993-03-03",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/rudiger.jpg"
+    },
+    {
+      "id": "4",
+      "name": "David Alaba",
+      "position": "Center Back",
+      "number": "4",
+      "country": "Austria",
+      "birthDate": "1992-06-24",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/alaba.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Ferland Mendy",
+      "position": "Left Back",
+      "number": "23",
+      "country": "France",
+      "birthDate": "1995-06-08",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/mendy.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Federico Valverde",
+      "position": "Midfielder",
+      "number": "15",
+      "country": "Uruguay",
+      "birthDate": "1998-07-22",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/valverde.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Jude Bellingham",
+      "position": "Midfielder",
+      "number": "5",
+      "country": "England",
+      "birthDate": "2003-06-29",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/bellingham.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Arda Güler",
+      "position": "Midfielder",
+      "number": "24",
+      "country": "Turkey",
+      "birthDate": "2005-02-25",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/guler.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Rodrygo Goes",
+      "position": "Right Winger",
+      "number": "11",
+      "country": "Brazil",
+      "birthDate": "2001-01-09",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/rodrygo.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Vinícius Júnior",
+      "position": "Left Winger",
+      "number": "7",
+      "country": "Brazil",
+      "birthDate": "2000-07-12",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/vinicius.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Kylian Mbappé",
+      "position": "Striker",
+      "number": "9",
+      "country": "France",
+      "birthDate": "1998-12-20",
+      "team": "Real Madrid",
+      "poster": "https://example.com/images/mbappe.jpg"
+    }
+  ]
+}
